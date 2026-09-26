@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A2Tech360/a2tech360-hackathon/main/assets/jachacks-a2tech-banner.png" alt="JacHacks A2Tech Hackathon, September 26–27, 2026, University of Michigan" width="100%">
+  <img src="https://raw.githubusercontent.com/A2Tech360/a2tech360-hackathon/main/assets/local-impact-track.jpg" alt="JacHacks A2Tech Hackathon, Local Impact: What could you build in a weekend to make Ann Arbor better? September 26–27, 2026, University of Michigan" width="520">
 </p>
 
 # 👋 Welcome to the A2Tech360 Hackathon
@@ -28,4 +28,4 @@ Create your team's project repo here in the **A2Tech360** org. **Baz AI code rev
 
 ---
 
-<sub>Presented with <a href="https://bit.ly/compass-detroit">Compass Detroit</a> · University of Michigan · a2Tech360 · Jaseci Labs · GDG Detroit · IBM · Google · Baz and our partners</sub>
+<sub>Local Impact track led by Barrett Solutions LLC, in collaboration with Compass Detroit and Luigi Solutions, sponsored by Baz, IBM, and Google · Part of a2Tech360</sub>
